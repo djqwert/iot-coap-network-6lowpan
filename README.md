@@ -19,7 +19,7 @@ ant run
 ```
 
 In Cooja, you need to put an RPL border router and then 20-30 CoAP servers, like Z1 o Cooja mote.<br>
-After, you have to go in RPL border router directory and digit this make commands to start the webserver:
+After, you have to go in RPL border router directory and digit the "make" command to start the webserver:
 
 ```sh
 cd ./c/rpl-border-router/
